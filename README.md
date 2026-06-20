@@ -1,5 +1,5 @@
 # 📈 NIFTY 50 Stock Screener
-
+![Dashboard](dashboard.png)
 A Python-based stock screener that analyzes NIFTY stocks using technical indicators and displays results through an interactive Streamlit dashboard.
 
 ## Features
